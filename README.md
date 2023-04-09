@@ -22,10 +22,9 @@
 
 ### Stats:
 
-<h1 align='center'>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaynetdinovR&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaynetdinovR&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaynetdinovR&theme=solarized_dark)
-</h1>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaynetdinovR&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaynetdinovR&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaynetdinovR&theme=solarized_dark)
+
 
 
