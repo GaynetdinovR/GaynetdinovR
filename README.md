@@ -18,10 +18,3 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-
-### Stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaynetdinovR&theme=solarized_dark)
-
-<![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaynetdinovR&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaynetdinovR&theme=solarized_dark)>
